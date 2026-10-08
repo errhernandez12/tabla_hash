@@ -1,0 +1,18 @@
+# Binarios y objetos
+hashtable
+a.out
+*.o
+*.obj
+*.exe
+
+# Depuración y análisis
+*.dSYM/
+*.log
+core
+vgcore.*
+
+# Editores y sistema
+.vscode/
+.idea/
+*.swp
+.DS_Store
